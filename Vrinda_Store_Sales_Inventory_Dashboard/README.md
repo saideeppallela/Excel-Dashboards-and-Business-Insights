@@ -36,7 +36,8 @@ The goal is to provide actionable **business insights** and help stakeholders ma
 
 ## 📸 Dashboard Preview  
 
-![Dashboard Screenshot](./Vrinda_Store_Sales_Inventory_Dashboard/Vrinda_Dashboard_Screenshot.png)
+![Dashboard Screenshot](./Vrinda_Store_Sales_Inventory_Dashboard/Vrinda%20Dashboard%20Screenshot.png)
+
 
 
 
