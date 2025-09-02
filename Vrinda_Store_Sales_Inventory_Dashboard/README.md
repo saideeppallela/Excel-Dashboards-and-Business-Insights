@@ -34,7 +34,7 @@ The goal is to provide actionable **business insights** and help stakeholders ma
 
 ## 📸 Dashboard Preview  
 
-![Dashboard Screenshot](./Vrinda_Dashboard_Screenshot.png)  
+![Dashboard Screenshot](./Vrinda_Dashboard_Screenshot)  
 
 📊 **Live Dashboard (View Only)**: [Click Here](#) *(optional – add Google Drive/OneDrive link)*  
 
