@@ -78,6 +78,6 @@ As a Data Analyst, this project demonstrates:
 
 👤 **Author**: Saideep Pallela  
 📅 **Completed**: September 2025  
-🔗 **Portfolio Repository**: [Excel Dashboards & Business Insights](https://github.com/saideeppallela/explore-my-7-excel-data-analytics-projects)  
+🔗 **Portfolio Repository**: [Excel Dashboards & Business Insights](https://github.com/saideeppallela/Explore-My-7-Excel-Projects)
 📧 **Email**: saideeppallela@gmail.com  
 💼 **LinkedIn**: [https://www.linkedin.com/in/saideeppallela/](#)  
