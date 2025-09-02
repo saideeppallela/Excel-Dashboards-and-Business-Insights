@@ -90,6 +90,6 @@ This dashboard demonstrates the ability to:
 
 👤 **Author**: Saideep Pallela  
 📅 **Completed**: September 2025  
-🔗 **Portfolio Repository**: [Excel Dashboards & Business Insights](https://github.com/saideeppallela/Explore-My-Microsoft-Excel-Projects)  
+🔗 **Portfolio Repository**: [Explore-My-Microsoft-Excel-Projects](https://github.com/saideeppallela/Explore-My-Microsoft-Excel-Projects)  
 📧 **Email**: saideeppallela@gmail.com  
 💼 **LinkedIn**: [https://www.linkedin.com/in/saideeppallela/](https://www.linkedin.com/in/saideeppallela/)
