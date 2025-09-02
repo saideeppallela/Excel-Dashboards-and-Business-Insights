@@ -25,13 +25,23 @@ The goal is to provide actionable **business insights** and help stakeholders ma
 ---
 
 ## 📂 Project Structure  
-- [Raw Dataset](./Vrinda%20Store%20Data%20Analysis%20Raw%20Data%20set.xlsx)  
-- [Cleaned Dataset](./Vrinda%20Store%20Sales%20&%20Inventory%20-%20Portfolio%20Version.xlsx)  
-- [Dashboard Screenshot](./Vrinda_Dashboard_Screenshot.png)  
-- [Thumbnail](./project_thumbnail.png)  
+
+- **Raw Dataset**: `Vrinda Store Data Analysis Raw Data set.xlsx`  
+- **Cleaned Dataset**: `Vrinda Store Sales & Inventory - Portfolio Version.xlsx`  
+- **Dashboard Screenshot**: `Vrinda_Dashboard_Screenshot.png`  
+- **Thumbnail**: `project_thumbnail.png`
 
 ---
+### 🖼️ Dashboard Screenshot
 
+![Vrinda Dashboard](./Vrinda%20Dashboard%20Screenshot.png)
+
+
+### 🖥️ Live Dashboard Preview
+View the interactive Excel dashboard (read-only) on OneDrive:  
+[Click here to open the dashboard](https://1drv.ms/x/c/2bb7e29997cf6540/EUBlz5eZ4rcggCsXAQAAAAABBIrEYQcBeHKtZO1HrdcwsQ?e=idnZEa)
+
+---
 
 ## 📈 Key Insights Delivered  
 - Identified **seasonal sales patterns** to optimize promotions  
