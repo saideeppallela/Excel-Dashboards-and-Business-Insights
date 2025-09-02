@@ -8,7 +8,10 @@ This project delivers a dynamic **Road Accident Analytics Dashboard** developed 
 ---
 
 ## 🖼️ Dashboard Preview  
-![Dashboard Screenshot](./Road_Accident_Dashboard_Screenshot.png)
+
+![Dashboard Screenshot](https://github.com/saideeppallela/Explore-My-Microsoft-Excel-Projects/raw/main/Road%20Accident%20Dashboard%20ScreenShot.jpg)
+
+
 
 
 ---
@@ -102,7 +105,7 @@ This project delivers a dynamic **Road Accident Analytics Dashboard** developed 
 ## 👤 Author & Contact  
 - **Author:** Saideep Pallela  
 - **Completed:** September 2025  
-- **Portfolio Repository:** [Excel Dashboards & Business Insights](https://github.com/saideeppallela/Explore-My-Microsoft-Excel-Projects)  
+- **Portfolio Repository:** [Explore-My-Microsoft-Excel-Projects](https://github.com/saideeppallela/Explore-My-Microsoft-Excel-Projects)  
 - **Email:** [saideeppallela@gmail.com](mailto:saideeppallela@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/saideeppallela](https://www.linkedin.com/in/saideeppallela/)  
 
