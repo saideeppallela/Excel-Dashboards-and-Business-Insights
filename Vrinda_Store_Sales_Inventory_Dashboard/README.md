@@ -28,7 +28,7 @@ The goal is to provide actionable **business insights** and help stakeholders ma
 - [Raw Dataset](./Vrinda%20Store%20Data%20Analysis%20Raw%20Data%20set.xlsx)  
 - [Cleaned Dataset](./Vrinda%20Store%20Sales%20&%20Inventory%20-%20Portfolio%20Version.xlsx)  
 - [Dashboard Screenshot](./Vrinda_Dashboard_Screenshot.png)  
-- [Thumbnail](./project%20thumbnail.png)  
+- [Thumbnail](./project_thumbnail.png)  
 
 ---
 
