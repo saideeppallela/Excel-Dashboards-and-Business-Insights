@@ -8,7 +8,8 @@ This project delivers a dynamic **Road Accident Analytics Dashboard** developed 
 ---
 
 ## 🖼️ Dashboard Preview  
-![Dashboard Screenshot](./Road%20Accident%20Dashboard%20ScreenShot.png)
+![Dashboard Screenshot](./Road_Accident_Dashboard_Screenshot.png)
+
 
 ---
 
