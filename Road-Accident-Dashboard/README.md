@@ -5,16 +5,6 @@
 ## 📊 Project Overview  
 This project delivers a dynamic **Road Accident Analytics Dashboard** developed using **Microsoft Excel**, analyzing detailed casualty data from road accidents recorded during **2021 and 2022**. The dashboard supports stakeholders in transport safety, policy-making, and enforcement with data-driven insights aimed at reducing casualties and enhancing road safety interventions.
 
----
-
-## 🖼️ Dashboard Preview  
-
-![Dashboard Screenshot](https://github.com/saideeppallela/Explore-My-Microsoft-Excel-Projects/raw/main/Road%20Accident%20Dashboard%20ScreenShot.jpg)
-
-
-
-
----
 
 ## 🎯 Business Objectives  
 - Quantify and analyze total casualties and accident severity across two years  
@@ -80,6 +70,13 @@ This project delivers a dynamic **Road Accident Analytics Dashboard** developed 
 - **Exploratory Data Analysis (EDA):** Pattern & trend identification  
 - **Interactive Dashboard Design:** Intuitive, scalable visualization  
 - **Data Storytelling:** Turning insights into clear road safety recommendations  
+
+---
+
+
+## 🖼️ Dashboard Preview  
+
+![Dashboard Screenshot](https://github.com/saideeppallela/Explore-My-Microsoft-Excel-Projects/raw/main/Road-Accident-Dashboard/Road%20Accident%20Dashboard%20Screenshot.png)
 
 ---
 
