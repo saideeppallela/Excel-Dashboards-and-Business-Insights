@@ -1,5 +1,7 @@
 # HR Analytics Dashboard  
-![Project Thumbnail](./screenshots/Project_Thumbnail.png)
+![Project Thumbnail](./Project_Thumbnail.png)  
+
+---
 
 [![Excel BI](https://img.shields.io/badge/Excel-BI-green)](https://www.microsoft.com/en-us/microsoft-365/excel)  
 [![Status](https://img.shields.io/badge/Project-Completed-brightgreen)]()  
@@ -71,8 +73,7 @@ This end-to-end, interactive HR Analytics dashboard built in **Microsoft Excel**
 
 ## 🖥️ Dashboard Preview
 
-![HR Dashboard](./screenshots/HR_Analytics_Dashboard_Screenshot.png)
-
+![HR Dashboard](./HR_Analytics_Dashboard_Screenshot.png)
 ---
 
 ### 🖥️ Live Dashboard Preview
