@@ -1,5 +1,5 @@
 # Blinkit Sales Analytics Dashboard  
-![Project Thumbnail](./Project_Thumbnail.png)
+![Project Thumbnail](./Project_thumbnail.png)
 
 ---
 
@@ -87,7 +87,7 @@ The key objectives were to analyze Blinkit's sales performance across multiple d
 
 ## 🖥️ Dashboard Preview
 
-![Blinkit Dashboard](./HR_Analytics_Dashboard_Screenshot.png)
+![Blinkit Dashboard](./Blinkit_Dashboard_Screenshot.png)
 
 ---
 
