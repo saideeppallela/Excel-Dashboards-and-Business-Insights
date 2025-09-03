@@ -1,5 +1,5 @@
 # Blinkit Sales Analytics Dashboard  
-![Project Thumbnail](./screenshots/Project_thumbnail.png)  
+![Project Thumbnail](./Project_Thumbnail.png)
 
 ---
 
@@ -87,9 +87,11 @@ The key objectives were to analyze Blinkit's sales performance across multiple d
 
 ## 🖥️ Dashboard Preview
 
-![Blinkit Dashboard](./screenshots/Blinkit_Dashboard_Screenshot.png)
+![Blinkit Dashboard](./HR_Analytics_Dashboard_Screenshot.png)
 
 ---
+
+### 🖥️ Live Dashboard Preview View the interactive Excel dashboard (read-only) on OneDrive: [Click here to open the dashboard](https://1drv.ms/x/c/2bb7e29997cf6540/EcnQVf865NZBktHX1pn8JdIBRI7SVY8kRrbbg344YtHyQQ?e=t40y2n)
 
 ### 🧭 Dashboard Features
 
