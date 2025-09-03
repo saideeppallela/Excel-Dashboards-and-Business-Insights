@@ -91,7 +91,10 @@ The key objectives were to analyze Blinkit's sales performance across multiple d
 
 ---
 
-### 🖥️ Live Dashboard Preview View the interactive Excel dashboard (read-only) on OneDrive: [Click here to open the dashboard](https://1drv.ms/x/c/2bb7e29997cf6540/EcnQVf865NZBktHX1pn8JdIBRI7SVY8kRrbbg344YtHyQQ?e=t40y2n)
+### 🖥️ Live Dashboard Preview View the interactive Excel dashboard (read-only) on OneDrive:
+ [Click here to open the dashboard](https://1drv.ms/x/c/2bb7e29997cf6540/EcnQVf865NZBktHX1pn8JdIBRI7SVY8kRrbbg344YtHyQQ?e=t40y2n)
+
+---
 
 ### 🧭 Dashboard Features
 
